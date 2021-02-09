@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Lab_C_pointers" Database="" Version="10000">
-  <Project Name="Problem_01" Path="Problem_01/Problem_01.project" Active="Yes"/>
+  <Project Name="Problem_01" Path="Problem_01/Problem_01.project" Active="No"/>
+  <Project Name="Problem_02" Path="Problem_02/Problem_02.project" Active="No"/>
+  <Project Name="Problem_03" Path="Problem_03/Problem_03.project" Active="No"/>
+  <Project Name="Problem_04" Path="Problem_04/Problem_04.project" Active="No"/>
+  <Project Name="Problem_05" Path="Problem_05/Problem_05.project" Active="No"/>
+  <Project Name="Problem_06" Path="Problem_06/Problem_06.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="Problem_01" ConfigName="Debug"/>
+      <Project Name="Problem_02" ConfigName="Debug"/>
+      <Project Name="Problem_03" ConfigName="Debug"/>
+      <Project Name="Problem_04" ConfigName="Debug"/>
+      <Project Name="Problem_05" ConfigName="Debug"/>
+      <Project Name="Problem_06" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="Problem_01" ConfigName="Release"/>
+      <Project Name="Problem_02" ConfigName="Release"/>
+      <Project Name="Problem_03" ConfigName="Release"/>
+      <Project Name="Problem_04" ConfigName="Release"/>
+      <Project Name="Problem_05" ConfigName="Release"/>
+      <Project Name="Problem_06" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

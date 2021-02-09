@@ -1,0 +1,1 @@
+../build-Debug/Problem_06/main.c.o ../build-Debug/Problem_06/student.c.o
