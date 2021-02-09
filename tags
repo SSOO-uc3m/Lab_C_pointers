@@ -1,0 +1,1 @@
+main	/home/profesor/Documentos/Lab_C_pointers/Problem_01/main.c	/^int main(int argc, char **argv)$/;"	function	line:3	signature:(int argc, char **argv)	returns:int 
